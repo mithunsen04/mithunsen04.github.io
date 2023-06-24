@@ -37,7 +37,7 @@ export default function Projects() {
   return (
     <section data-aos="fade-up" className="projects-continer sections" id="projects">
       <h1 className="heading">
-        <span className="sauce">3. </span>Some Things I've Built
+        <span className="sauce"> </span>Some Things I've Built
       </h1>
       <div className="">
         <div className="project-cards">

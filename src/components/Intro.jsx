@@ -37,7 +37,7 @@ export default function Intro({ handleClick, boolean }) {
           Namaste<span className="wave">🙏</span>, my name is
         </div>
         <div id="user-detail-name" className="bio name lighter-red">
-          <Rubber text={"Vishal Durge."} />{" "}
+          <Rubber text={"Mithun Sen."} />{" "}
         </div>
         <div className="bio what-i-do">
           <Typewriter
@@ -52,9 +52,7 @@ export default function Intro({ handleClick, boolean }) {
                 .typeString("I Do Backend.")
                 .pause(2000)
                 .deleteAll()
-                .typeString("I Watch Animes.")
-                .pause(2000)
-                .deleteAll()
+                
                 .start();
             }}
           />

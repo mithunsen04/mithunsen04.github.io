@@ -14,7 +14,7 @@ export default function Navbar({ handleClick, boolean }) {
       <div id="logo-nav">
         <h1 className="nav-link home">
           <a className="sauce name rubber" href="#home">
-            VD 
+            MITHUN 
           </a>
         </h1>
         <div className="ham-container">
@@ -29,27 +29,27 @@ export default function Navbar({ handleClick, boolean }) {
       <ul className={boolean ? "hide" : ""}>
         <li className="nav-link about">
           <a href="#about" className="underline">
-            <span className="sauce">0. </span>About
+            <span className="sauce"> </span>About
           </a>
         </li>
         <li className="nav-link skills">
           <a href="#skills" className="underline">
-            <span className="sauce">1. </span>Skills
+            <span className="sauce"> </span>Skills
           </a>
         </li>
         <li>
           <a href="#experience" className="underline">
-            <span className="sauce">2. </span>Experience
+            <span className="sauce"> </span>Experience
           </a>
         </li>
         <li className="nav-link projects">
           <a href="#projects" className="underline">
-            <span className="sauce">3. </span>Projects
+            <span className="sauce"> </span>Projects
           </a>
         </li>
         <li className="nav-link contact">
           <a href="#contact" className="underline">
-            <span className="sauce">4. </span>Contact
+            <span className="sauce"> </span>Contact
           </a>
         </li>
       </ul>
