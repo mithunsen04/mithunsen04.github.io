@@ -1,6 +1,6 @@
 
 
-import resume from "../resume/Vishal_Durge_Resume.pdf"
+import resume from "../resume/mithun_sen.pdf"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faBars, faXmark} from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {
@@ -18,7 +18,7 @@ export default function Navbar({ handleClick, boolean }) {
           </a>
         </h1>
         <div className="ham-container">
-          <a rel="noreferrer" href={resume} onClick={handleDownload} download={'Vishal-Durge-Resume'} className="contact-button resume-button first-btn">
+          <a rel="noreferrer" href={resume} onClick={handleDownload} download={'mithun_sen'} className="contact-button resume-button first-btn">
             Resume
           </a>
           <span className="ham">
@@ -53,7 +53,7 @@ export default function Navbar({ handleClick, boolean }) {
           </a>
         </li>
       </ul>
-      <a href={resume} onClick={handleDownload} rel="noreferrer" download={'Vishal-Durge-Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">Resume</a>
+      <a href={resume} onClick={handleDownload} rel="noreferrer" download={'mithun_sen'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">Resume</a>
     </nav>
   );
 }

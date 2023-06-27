@@ -31,16 +31,16 @@ export default function getProjects() {
         projectLinkHosted: "https://majestic-paletas-0904b9.netlify.app/index.html",
         projectLinkGithub: "https://github.com/mithunsen04/Trivago.in_Clone",
       },
-      // {
-      //   id: 4,
-      //   projectTitle: "Movie-Station",
-      //   image:"movieStation.png",
-      //   projectInfo:
-      //     "It's a Movie Searching App where a user can search for any movie and can perform sorting and filtering actions",
-      //   techUsed: ["JavaScript", "HTML", "CSS"],
-      //   projectLinkHosted: "https://movie-station-m.netlify.app/",
-      //   projectLinkGithub: "https://movie-station-m.netlify.app/",
-      // },
+      {
+        id: 4,
+        projectTitle: "Personal Portfolio",
+        image:"portfolio.png",
+        projectInfo:
+          "This is my Personal Portfolio website, it's contain what is my professional experience and Projects work",
+        techUsed: ["React", "Redux", "Chakra UI"],
+        projectLinkHosted: "https://mithunsen04.github.io/",
+        projectLinkGithub: "https://github.com/mithunsen04/mithunsen04.github.io",
+      },
       // {
       //   id: 5,
       //   projectTitle: "Faballey-Clone",
