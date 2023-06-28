@@ -7,7 +7,7 @@ import { faArrowUpRightFromSquare } from "@fortawesome/free-solid-svg-icons";
 import getProjects from "../data/projects";
 import AOS from "aos";
 
-const projectsPerPage = 3;
+const projectsPerPage = 4;
 let arrayForHoldingProjects = [];
 
 export default function Projects() {
@@ -26,7 +26,7 @@ export default function Projects() {
     // console.log("useEffect called");
     AOS.init();
     AOS.refresh();
-    loopWithSlice(0, projectsPerPage);
+     loopWithSlice(0, projectsPerPage);
   }, []);
 
   const handleShowMoreProjects = () => {
