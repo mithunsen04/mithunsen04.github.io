@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.0a93dc07.css",
-    "main.js": "/static/js/main.5ce4dde6.js",
+    "main.js": "/static/js/main.c9856761.js",
     "static/media/Furniture - store.png": "/static/media/Furniture - store.18c724bebc6711807f27.png",
     "static/media/personal.png": "/static/media/personal.e81b3a052edaf1959f27.png",
     "static/media/shop_com.png": "/static/media/shop_com.6eb513dba668beeb9748.png",
-    "static/media/mithun_sen.pdf": "/static/media/mithun_sen.3bdc3542d7689523fe18.pdf",
+    "static/media/Mithun_Sen_Resume.pdf": "/static/media/Mithun_Sen_Resume.8de330d5a9f4f9426a0e.pdf",
     "static/media/portfolio.png": "/static/media/portfolio.d21fe17fe4b397eb8530.png",
     "static/media/Trivago_in.png": "/static/media/Trivago_in.7c6affef6213e66e1e08.png",
     "index.html": "/index.html",
     "main.0a93dc07.css.map": "/static/css/main.0a93dc07.css.map",
-    "main.5ce4dde6.js.map": "/static/js/main.5ce4dde6.js.map"
+    "main.c9856761.js.map": "/static/js/main.c9856761.js.map"
   },
   "entrypoints": [
     "static/css/main.0a93dc07.css",
-    "static/js/main.5ce4dde6.js"
+    "static/js/main.c9856761.js"
   ]
 }
